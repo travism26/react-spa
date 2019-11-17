@@ -42,6 +42,10 @@ body {
     transition: all 0.3s ease-in-out;
   }
 
+  .nav-menu__link.active {
+    background-color: royalblue;
+  }
+
   .nav-menu__link:hover {
     border: 1px solid black;
     background-color: rgb(228, 228, 228);
