@@ -28,5 +28,11 @@ export const TravelingList = [
         capital: "Washington",
         travel_interest: "Murica",
         capital_img: "https://upload.wikimedia.org/wikipedia/commons/8/81/Washington_Montage_2016.png"
+    },
+    {
+        country: "USA",
+        capital: "Washington",
+        travel_interest: "Murica",
+        capital_img: "https://upload.wikimedia.org/wikipedia/commons/8/81/Washington_Montage_2016.png"
     }
 ];
